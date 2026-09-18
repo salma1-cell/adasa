@@ -9,8 +9,7 @@ import About from "./pages/about";
 
 function App() {
   return (
-    <BrowserRouter>
-
+<BrowserRouter basename="/adasa">
       <Navbar />
 
       <Routes>
